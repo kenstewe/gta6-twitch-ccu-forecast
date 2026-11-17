@@ -1,11 +1,7 @@
-![Rank](https://make.fun)
-![Reward](https://make.fun)
-
 # GTA VI Twitch Viewer Forecaster
 
-[![make.fun · gta6-twitch-ccu-forecast-01](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
-[![rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/m-asyari/gta6-twitch-forecaster/rank.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
-[![reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/m-asyari/gta6-twitch-forecaster/reward.svg)](https://make.fun/bounty/gta6-twitch-ccu-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-twitch-ccu-forecast-01)
+![Rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/kenstewe/gta6-twitch-ccu-forecast/rank.svg)
+![Reward](https://make.fun/badge/gta6-twitch-ccu-forecast-01/kenstewe/gta6-twitch-ccu-forecast/reward.svg)
 
 Forecast GTA VI's launch-day Twitch viewers hour by hour for make.fun's bounty **"Forecast GTA VI's launch-day Twitch viewers hour by hour"** ($250 in USDC, 20 places paid).
 
